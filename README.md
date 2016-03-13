@@ -1,8 +1,5 @@
-# Keppy's MIDI Converter
-A fully functional MIDI to WAV converter, suitable for normal AND heavy MIDIs! (Up to 500 million notes for 32-bit version, unlimited [sorta?] for 64-bit version)
-
-## HEY HOW CAN I DOWNLOAD I...
-Click on "Releases".
+# Keppy's MIDI Converter Console Version
+Like Keppys MIDI Converter but as a console application
 
 ## Requirements (Compiled program)
 - Windows XP SP2+ or newer.
@@ -19,3 +16,8 @@ Click on "Releases".
 ## Credits
 - Thanks Ian Luck for his wonderful BASS libraries! Take a look to them here: [Un4seen website] (http://www.un4seen.com/)
 - Thanks to Radio42 for his BASS.NET wrapper, that allows me to develop VB.NET/C# apps based off BASS libraries! Link: [BASS.NET] (http://www.bass.radio42.com/)
+- KalleidonKep99 for the original converter
+- 89Mods / TheGhastModding for this Console Version of the converter
+
+## Usage
+KeppysConverterConsole.exe [MIDI file name] [Soundfont file name] [Output .wav file name] [voice limit] [audio frequency] (Optional: -fx[true/false])
