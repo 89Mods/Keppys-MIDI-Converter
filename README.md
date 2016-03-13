@@ -10,13 +10,13 @@ Like Keppys MIDI Converter but as a console application
 ## Requirements (For compiling the program)
 - Windows 7 SP1 or newer.
 - 1GB of RAM or more.
-- Microsoft Visual Studio 2013. (or newer, your choice)
+- Microsoft Visual Studio 2015.
 - [BASS.NET] (http://www.bass.radio42.com/) by Radio42.
 
 ## Credits
 - Thanks Ian Luck for his wonderful BASS libraries! Take a look to them here: [Un4seen website] (http://www.un4seen.com/)
 - Thanks to Radio42 for his BASS.NET wrapper, that allows me to develop VB.NET/C# apps based off BASS libraries! Link: [BASS.NET] (http://www.bass.radio42.com/)
-- KalleidonKep99 for the original converter
+- KaleidonKep99 for the original converter
 - 89Mods / TheGhastModding for this Console Version of the converter
 
 ## Usage
