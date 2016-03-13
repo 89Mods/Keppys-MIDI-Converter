@@ -1,0 +1,10 @@
+c:\users\lucah_000\documents\visual studio 2015\Projects\KeppysConverterConsole\KeppysConverterConsole\bin\Debug\KeppysConverterConsole.exe.config
+c:\users\lucah_000\documents\visual studio 2015\Projects\KeppysConverterConsole\KeppysConverterConsole\bin\Debug\KeppysConverterConsole.exe
+c:\users\lucah_000\documents\visual studio 2015\Projects\KeppysConverterConsole\KeppysConverterConsole\bin\Debug\KeppysConverterConsole.pdb
+c:\users\lucah_000\documents\visual studio 2015\Projects\KeppysConverterConsole\KeppysConverterConsole\obj\Debug\KeppysConverterConsole.csprojResolveAssemblyReference.cache
+c:\users\lucah_000\documents\visual studio 2015\Projects\KeppysConverterConsole\KeppysConverterConsole\obj\Debug\KeppysConverterConsole.exe
+c:\users\lucah_000\documents\visual studio 2015\Projects\KeppysConverterConsole\KeppysConverterConsole\obj\Debug\KeppysConverterConsole.pdb
+c:\users\lucah_000\documents\visual studio 2015\Projects\KeppysConverterConsole\KeppysConverterConsole\bin\Debug\Bass.Net.dll
+c:\users\lucah_000\documents\visual studio 2015\Projects\KeppysConverterConsole\KeppysConverterConsole\bin\Debug\Bass.Net.xml
+C:\Users\lucah_000\Documents\Visual Studio 2015\Projects\KeppysConverterConsole\KeppysConverterConsole\obj\Debug\KeppysConverterConsole.Properties.Resources.resources
+C:\Users\lucah_000\Documents\Visual Studio 2015\Projects\KeppysConverterConsole\KeppysConverterConsole\obj\Debug\KeppysConverterConsole.csproj.GenerateResource.Cache
